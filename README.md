@@ -1,20 +1,24 @@
-# SimpleTransfer Contract
+# Solidity Learning Notes
 
-This is a simple Solidity smart contract that allows users to transfer Ether from one address to another. The contract includes an event to log each transfer made, ensuring transparency in transactions.
-
-## Features
-
-- **Transfer Ether**: Users can send Ether to a specified address.
-- **Event Logging**: Each transfer is logged with sender, receiver, and amount details.
+This repository serves as a collection of my notes and projects related to Solidity and smart contract development. It includes examples of smart contracts, explanations of key concepts, and test cases.
 
 ## Purpose
 
-This project was developed as part of my learning journey in Solidity and smart contract development.
+This project was developed as part of my learning journey in Solidity and smart contract development. I aim to explore various features of Solidity and build a comprehensive understanding of how smart contracts work.
 
-## Usage
+## Structure
 
-1. Deploy the contract on the Ethereum network.
-2. Call the `transfer` function with the recipient's address and the amount to send.
+- **contracts/**: Contains various smart contract codes.
+- **notes/**: Contains markdown files with explanations and notes on different Solidity topics.
+- **tests/**: Contains test scenarios for the contracts.
+
+## Contributing
+
+If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+## Contact
+
+You can reach me here or via email at @tugrulbayezit@protonmail.com
 
 ## License
 
